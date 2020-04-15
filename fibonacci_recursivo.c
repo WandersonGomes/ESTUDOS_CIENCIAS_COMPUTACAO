@@ -7,9 +7,6 @@
 #define VERDE 3
 #define PADRAO 0
 
-//LIMPAR BUFFER
-char keyboard[BUFSIZ];
-
 //FUNCAO QUE RETORNA O VALOR DO TERMO DA SEQUENCIA FIBONACCI DE FORMA RECURSIVA
 int fibonacciRecursiva(int termo) {
     if ((termo == 1) || (termo == 2)) {
