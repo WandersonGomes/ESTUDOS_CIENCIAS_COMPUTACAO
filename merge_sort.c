@@ -66,7 +66,6 @@ void merge(int *vetor, int inicio, int meio, int fim) {
 //O VERDADEIRO MERGE SORT
 void _mergeSort(int* vetor, int inicio, int fim) {
     int meio = 0;
-    int i = 0;
 
     if (inicio < fim) {
         meio = (inicio + fim)/2;
