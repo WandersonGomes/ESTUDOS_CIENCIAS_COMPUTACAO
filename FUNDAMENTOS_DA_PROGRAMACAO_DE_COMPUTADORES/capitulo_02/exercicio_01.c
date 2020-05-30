@@ -13,7 +13,7 @@ int main() {
     scanf("%d", &numero1);
 
     printf("Informe um segundo numero inteiro: ");
-    scanf("%d ", &numero2);
+    scanf("%d", &numero2);
 
     resultado = numero1 - numero2;
 
