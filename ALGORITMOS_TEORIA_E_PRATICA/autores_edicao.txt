@@ -1,0 +1,14 @@
+Autores:
+Thomas H. Cormen
+Charles E. Leiserson
+Ronald L. Rivest
+Clifford Stein
+
+Edicao:
+Traducao da segunda edicao americana
+
+Editora:
+Campus
+
+Tiragem:
+Sexta Tiragem
